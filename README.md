@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hellen Ferreira
 
-**`Desenvolvedora FullStack`**
+**`Analista de teste`**
 
 Me chamo Hellen Ferreira. Concluí o ensino médio  com o curso técnico em logística. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no Github, Onde ensino a criar projetos web.
 
@@ -82,7 +82,7 @@ Me chamo Hellen Ferreira. Concluí o ensino médio  com o curso técnico em log�
 <img 
     align="left" 
     alt="Next.js" 
-    title="Next.js"
+    title="Jira"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
