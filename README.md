@@ -2,7 +2,7 @@
 
 **`Analista de teste`**
 
-Olá! Sou Hellen Ferreira, estudante de Análise e Desenvolvimento de Sistemas na Fatec e profissional da área de Qualidade de Software (QA).
+Oi! Sou Hellen Ferreira, estudante de Análise e Desenvolvimento de Sistemas na Fatec e profissional da área de Qualidade de Software (QA).
 
 Tenho experiência em testes funcionais, automação de testes e documentação técnica. Gosto de tecnologia, desenvolvimento web e aprendizado contínuo.
 
