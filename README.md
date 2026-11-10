@@ -2,7 +2,11 @@
 
 **`Analista de teste`**
 
-Me chamo Hellen Ferreira. Concluí o ensino médio  com o curso técnico em logística. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no Github, Onde ensino a criar projetos web.
+Olá! Sou Hellen Ferreira, estudante de Análise e Desenvolvimento de Sistemas na Fatec e profissional da área de Qualidade de Software (QA).
+
+Tenho experiência em testes funcionais, automação de testes e documentação técnica. Gosto de tecnologia, desenvolvimento web e aprendizado contínuo.
+
+Neste GitHub, compartilho projetos, conhecimentos e minha evolução na área de tecnologia.
 
 <p align="left">
     <a href="https://www.youtube.com/@hellen.conhecimento/featured">
