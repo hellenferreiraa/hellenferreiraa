@@ -30,7 +30,7 @@ Neste GitHub, compartilho projetos, conhecimentos e minha evolução na área de
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/hellenferreiraa">
+    <a href="https://github.com/hellenferreiraa?tab=following">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
